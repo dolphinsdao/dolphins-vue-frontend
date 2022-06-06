@@ -1,0 +1,808 @@
+@media screen and (max-width: 1366px) {
+
+}
+
+@media screen and (max-width: 1240px) {
+	.auctions-slayder {
+		width: 600px;
+	}
+}
+
+
+/* styles for md-devices */
+@media screen and (max-width: 1200px) {
+	.auctions-block {
+		width: 35%;
+	}
+
+	.auctions-block2 {
+		padding: 0 0 0 50px;
+		width: 65%;
+	}
+
+	.auctions-slayder {
+		width: 600px;
+	}
+
+	.nft-inner-border {
+		width: 200px;
+	}
+
+	.pink {
+		width: 321px;
+		height: 321px;
+	}
+
+	.grey {
+		width: 321px;
+		height: 321px;
+	}
+
+	.blue {
+		width: 321px;
+		height: 321px;
+	}
+}
+
+@media screen and (max-width: 1170px) {
+	.auctions-slayder {
+		width: 570px;
+	}
+}
+
+@media screen and (max-width: 1150px) {
+	.auctions-slayder {
+		width: 550px;
+	}
+
+	.nft-preview-dialog {
+		max-width: 50%;
+	}
+}
+
+
+@media screen and (max-width: 1100px) {
+	.nft-button {
+		padding: 24px 0 24px 10px;
+		width: 275px;
+	}
+
+	.token-button {
+		width: 230px;
+	}
+
+	.roadmap-slider-title {
+		width: 450px;
+	}
+
+	.roadmap-slider-suptitle {
+		width: 500px;
+	}
+
+	.roadmap {
+		padding: 80px 0 95px 0;
+	}
+
+}
+
+@media screen and (max-width: 1090px) {
+	.auctions-slayder {
+		width: 500px;
+	}
+
+}
+
+@media screen and (max-width: 1050px) {
+	.auctions-slayder {
+		width: 450px;
+	}
+
+	.auctions-block {
+		width: 40%;
+	}
+
+	.auctions-block2 {
+		width: 60%;
+	}
+
+	.nft-button {
+		padding: 16px 0 16px 10px;
+		width: 230px;
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.nft-span {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span3 {
+		padding: 0 13px 0 0;
+	}
+
+	.nft-span5 {
+		padding: 0 21px 0 0;
+	}
+
+	.nft-span7 {
+		padding: 0 5px 0 0;
+	}
+
+	.nft-span2 {
+		padding: 0 5px 0 0;
+	}
+
+	.nft-span4 {
+		padding: 0 21px 0 0;
+	}
+
+	.nft-span6 {
+		padding: 0 21px 0 0;
+	}
+
+	.nft-span8 {
+		padding: 0 14px 0 0;
+	}
+
+	.token-button {
+		padding: 16px 0 16px 10px;
+		width: 200px;
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+}
+
+
+/* styles for sm-devices */
+@media screen and (max-width: 992px) {
+	.auctions-slayder {
+		width: 400px;
+	}
+
+	.work-title {
+		font-size: 70px;
+	}
+
+	.roadmap-slider-title {
+		font-size: 20px;
+		line-height: 30px;
+		width: 330px;
+	}
+
+	.roadmap-slider-suptitle {
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.nft-inner-border {
+		width: 150px;
+	}
+
+	.inner-block2 {
+		display: none;
+	}
+
+	.inner-block {
+		width: 100%;
+	}
+
+	.work {
+		padding: 70px 0 150px 0;
+	}
+
+	.dots-line img {
+		height: 4px;
+	}
+
+}
+
+@media screen and (max-width: 1024px) {
+	.container {
+		padding: 0 16px;
+	}
+
+}
+
+@media screen and (max-width: 912px) {
+	.auctions-block {
+		width: 50%;
+	}
+
+	.auctions-block2 {
+		width: 50%;
+	}
+
+	.auctions-slayder {
+		width: 300px;
+	}
+
+	.nft-wrap {
+		flex-wrap: wrap;
+	}
+
+	.nft-block {
+		width: 100%;
+	}
+
+	.nft-block2 {
+		padding: 16px 16px 0 0;
+		text-align: center;
+		width: 100%;
+	}
+
+	.nft-block-wrap {
+		flex-wrap: nowrap;
+		overflow: auto;
+		white-space: nowrap;
+	}
+
+	.nft-button {
+		border: 1px solid rgba(151, 185, 200, 0.3);
+		box-sizing: border-box;
+		border-radius: 12px;
+		padding: 16px 16px;
+		width: auto;
+	}
+
+
+
+	.nft-span {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span2 {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span3 {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span4 {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span5 {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span6 {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span7 {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-span8 {
+		padding: 0 8px 0 0;
+	}
+
+	.nft-border {
+		padding: 24px 0 16px 16px;
+	}
+
+	.nft-title {
+		padding: 0;
+	}
+
+	.nft-block-block {
+		width: 100%;
+		padding: 0 8px 8px 0;
+	}
+
+	.nft-block-other {
+		width: 100%;
+		padding: 0 8px 8px 0;
+	}
+
+	.nft-inner {
+		padding: 24px 16px 0 0;
+	}
+
+	.token-button {
+		width: 150px;
+	}
+
+	.token-block {
+		width: 50%;
+	}
+
+	.token-block2 {
+		width: 50%;
+	}
+
+	.roadmap-slider-suptitle {
+		width: 400px;
+	}
+
+	.portfolio-wrap-border {
+		width: 197px
+	}
+
+	.portfolio-graffik-block {
+		right: 0;
+	}
+}
+
+@media screen and (max-width: 850px) {
+	.auctions-sl .slick-next {
+		display: none !important;
+	}
+
+	.auctions-sl .slick-list {
+		padding: 0 10% 0 0 !important;
+	}
+
+	.auctions-slayder {
+		width: 100%;
+	}
+
+	.work-title {
+		font-size: 60px;
+	}
+
+	.work {
+		padding: 70px 0 173px 0;
+	}
+
+	.slick-dots li {
+		margin: 0 150px 0 0 !important;
+	}
+}
+
+
+
+/* Ipad*/
+@media screen and (max-width: 768px) {
+	.auctions-block {
+		width: 55%;
+	}
+
+	.auctions-block2 {
+		padding: 0 0 0 20px;
+		width: 45%;
+	}
+
+	.roadmap-slider-title {
+		width: 231px;
+	}
+
+	.token-block-wrap {
+		display: none;
+	}
+
+	.token-wrap-mb {
+		padding: 24px 0 0 0;
+		display: flex;
+		overflow: auto;
+		white-space: nowrap;
+	}
+
+	.token-block-wrap-blok {
+		display: flex;
+		width: 100%;
+	}
+
+	.token-block {
+		width: 100%;
+	}
+
+	.token-wrap {
+		flex-wrap: wrap;
+	}
+
+	.token-block2 {
+		text-align: center;
+		padding: 16px 16px 0 0;
+		width: 100%;
+	}
+
+	.token-button {
+		width: auto;
+		padding: 16px 16px;
+		border: 1px solid rgba(151, 185, 200, 0.3);
+		box-sizing: border-box;
+		border-radius: 12px;
+	}
+
+
+
+	.token-block-block {
+		width: 100%;
+		padding: 0 8px 8px 0;
+	}
+
+	.token-border {
+		padding: 24px 0 16px 16px;
+	}
+
+	.auctions-container {
+		display: block;
+		padding: 32px 0 0 16px;
+	}
+
+	.auctions-block2 {
+		display: none;
+	}
+
+	.auctions-block {
+		justify-content: center;
+		width: 100%;
+	}
+
+	.auctions-img {
+		width: auto;
+	}
+
+	.auctions-info {
+		width: auto;
+	}
+
+	.auctions-border {
+		justify-content: center;
+		padding: 20px 20px;
+	}
+
+	.auctions-sl2 .slick-list {
+		padding:0 10% 0 0 !important;
+
+	}
+
+	.auctions {
+		padding: 32px 0 0 0;
+	}
+
+	.portfolio {
+		padding: 80px 0 0 0;
+	}
+
+	.nft {
+		padding: 40px 0 0 0;
+	}
+
+	.token {
+		padding: 32px 0 40px 0;
+	}
+
+	.portfolio-wrap {
+		white-space: nowrap;
+		overflow: auto;
+	}
+
+	.portfolio-wrap-block {
+		padding: 0 8px 0 0;
+	}
+
+	.portfolio-wrap-border {
+		padding: 16px 0 16px 24px;
+	}
+
+	.nft-preview-dialog {
+		max-width: 75%;
+	}
+
+}
+
+
+/* Ipad mini*/
+@media screen and (max-width: 640px) {
+	.inner {
+		display: none;
+	}
+
+	.inner-block-block {
+		width: 100%;
+		padding: 8px 0 0 0;
+	}
+
+	.work-title {
+		font-size: 45px;
+		line-height: 115%;
+	}
+
+	.work {
+		padding: 70px 0 206px 0;
+	}
+
+	.section-accordion {
+		display: block;
+	}
+
+
+
+	.mobile-only {
+		display: block;
+	}
+
+	.desktop-only {
+		display: none;
+	}
+
+
+	.burger {
+		display: block !important;
+	}
+
+	.nft-inner-mb {
+		display: flex; !important;
+		width: 100%;
+	}
+
+	.nft-inner-full {
+		display: none; !important;
+	}
+
+
+	.mt-munu-mb .header-navigation-wr {
+		display: block !important;
+	}
+
+	.header-link {
+		display: none;
+	}
+
+	.header-social {
+		display: none;
+	}
+
+	.header-ul {
+		display: inline-block;
+	}
+
+	.header-li {
+		padding: 10px 0 0 0;
+	}
+
+	.header-social-li {
+		padding: 20px 20px 0 0;
+	}
+
+	.portfolio-img {
+		padding: 80px 0 0 0;
+	}
+
+	.portfolio-inner-elipse {
+		width: 12px;
+		height: 12px;
+	}
+
+	.portfolio-inner-title {
+		padding: 0 0 0 8px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.portfolio-inner-block {
+		padding: 0 16px 0 0;
+	}
+
+	.portfolio-graffik-block {
+		top: 80px;
+		left: 0;
+	}
+
+	.portfolio-title {
+		font-size: 36px;
+		line-height: 54px;
+	}
+
+	.nft-title {
+		font-size: 24px;
+		line-height: 115%;
+	}
+
+	.nft-block-wrap {
+		padding: 24px 0 0 0;
+	}
+
+	.nft-inner {
+		padding: 24px 8px 0 0;
+		flex-wrap: wrap;
+	}
+
+	.nft-inner-block {
+		width: 50%;
+		padding: 0 7px 8px 0;
+	}
+
+	.nft-inner-border {
+		width: 100%;
+		padding: 16px 16px;
+	}
+
+	.roadmap-wrap {
+		padding: 16px 16px;
+		flex-wrap: wrap;
+		box-sizing: border-box;
+		border-radius: 12px;
+	}
+
+	.roadmap-slider-title {
+		width: 100%;
+	}
+
+	.roadmap-slider-suptitle {
+		padding: 6px 0 0 0;
+		width: 100%;
+	}
+
+	.roadmap-container {
+		padding: 50px 0 0 16px;
+	}
+
+	.roadmap-slider .slick-list {
+		padding:0 7% 0 0 !important;
+
+	}
+
+	.roadmap-slider .slick-slide {
+		margin: 0 8px 0 0 !important;
+	}
+
+	.roadmap-slider .slick-prev {
+		display: none !important;
+	}
+
+	.roadmap-slider .slick-next {
+		display: none !important;
+	}
+
+	.token-title {
+		padding: 0;
+		font-size: 24px;
+		line-height: 115%;
+	}
+
+	.roadmap-title {
+		font-size: 36px;
+		line-height: 54px;
+	}
+
+	.token-block-wrap-blok {
+		width: 100% !important;
+	}
+
+	.slick-dots li {
+		margin: 0 100px 0 0 !important;
+	}
+
+	.nft-preview-dialog {
+		max-width: 95%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.inner-title {
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.accordion .item.open .icon {
+		margin: 620px 0 0 40px;
+	}
+
+
+
+}
+
+@media screen and (max-width: 550px) {
+	.accordion .item.open .icon {
+		margin: 640px 0 0 40px;
+	}
+
+
+}
+
+/* Galaxy S8+*/
+@media screen and (max-width: 480px) {
+	.accordion .item.open .icon {
+		margin: 687px 0 0 40px;
+	}
+
+	.auctions-link a {
+		padding: 14px 0;
+		width: 147px;
+		font-size: 14px;
+		line-height: 115.02%;
+	}
+
+	.work {
+		padding: 70px 0 153px 0;
+	}
+
+	.slick-dots li {
+		margin: 0 50px 0 0 !important;
+	}
+
+	.roadmap-container {
+		padding: 24px 0 0 16px;
+	}
+
+	.roadmap .slick-slider {
+		padding: 36px 0 0 0;
+	}
+
+	.pink {
+		width: 279px;
+		height: 279px;
+	}
+
+	.grey {
+		width: 279px;
+		height: 279px;
+	}
+
+	.blue {
+		width: 279px;
+		height: 279px;
+	}
+
+	.token-block2 {
+		display: flex;
+		justify-content: center;
+	}
+
+	.circle-text {
+		font-size: 24px;
+	}
+
+}
+
+/* Galaxy*/
+@media screen and (max-width: 415px) {
+	.accordion .item.open .icon {
+		margin: 712px 0 0 40px;
+	}
+
+	.auctions-sl2 .slick-list {
+		padding: 0 20% 0 0 !important;
+	}
+}
+
+
+/* Iphone 6.7.8 */
+@media screen and (max-width: 375px) {
+
+}
+
+@media screen and (max-width: 350px) {
+	.footer-li a {
+		width: 130px;
+	}
+
+	.accordion .item.open .icon {
+		margin: 758px 0 0 40px;
+	}
+
+	.pink {
+		width: 210px;
+		height: 210px;
+	}
+
+	.grey {
+		width: 210px;
+		height: 210px;
+	}
+
+	.blue {
+		width: 210px;
+		height: 210px;
+	}
+
+	.circle-text {
+		font-size: 18px;
+	}
+}
+
+/* Iphone 5.5SE */
+@media screen and (max-width: 320px) {
+	.footer-li a {
+		width: 130px;
+	}
+
+	.portfolio-inner-title {
+		font-size: 14px;
+	}
+}

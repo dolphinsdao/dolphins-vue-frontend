@@ -1,0 +1,31 @@
+.ui-widget-header{
+    background:#0d489f !important;
+    border:solid 1px #0d489f !important;
+}
+
+@media (min-width: 340px) and (max-width: 960px) {
+
+    #dialogContainer {
+        overflow: auto;
+        -webkit-overflow-scrolling: touch;
+	height: 90vh;
+    }
+
+    #objectWhitepaperPdf {
+	width: 90vw;
+    }
+
+}
+
+.readFullPdfNote {
+    display:none;
+    padding:8px;
+}
+
+/* Safari 10.1+ */
+@media not all and (min-resolution:.001dpcm) { @media {
+
+    .readFullPdfNote {
+        display:block !important;
+    }
+}}
