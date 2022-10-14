@@ -4,7 +4,7 @@
             <div class="footer-wrap">
                 <ul class="footer-ul">
                     <li class="footer-li">
-                        <a href="https://discord.com/invite/dolphinsdao" target="_blank">
+                        <a href="https://discord.gg/G2TG6TZsRS" target="_blank">
                             Discord
                             <img src="images/footer-img.svg" alt="">
                         </a>
